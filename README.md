@@ -1,1 +1,1 @@
-# Portfolio
+ This is my personal frontend developer portfolio showcasing web projects built with HTML, CSS, JavaScript, and modern frameworks. It highlights my skills in responsive design, UI/UX, and interactivity. View the live demo, explore source code, and connect with me for collaboration or opportunities.
